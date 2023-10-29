@@ -1,0 +1,11 @@
+C:/Users/gabri/STM32CubeIDE/workspace_1.12.1/target/stm32f1xx_drivers/drivers/Inc/core_cm33.h:2223:22:__NVIC_EnableIRQ	16	static
+../drivers/Src/stm32f103xx_gpio_driver.c:43:6:GPIO_PeriClockControl	16	static
+../drivers/Src/stm32f103xx_gpio_driver.c:82:6:GPIO_Init	16	static
+../drivers/Src/stm32f103xx_gpio_driver.c:113:6:config_pin	24	static
+../drivers/Src/stm32f103xx_gpio_driver.c:149:6:config_pin_speed	24	static
+../drivers/Src/stm32f103xx_gpio_driver.c:164:6:gpio_write	24	static
+../drivers/Src/stm32f103xx_gpio_driver.c:175:9:gpio_read	24	static
+../drivers/Src/stm32f103xx_gpio_driver.c:184:6:gpio_toggle	16	static
+../drivers/Src/stm32f103xx_gpio_driver.c:190:6:configure_gpio_interrupt	24	static
+../drivers/Src/stm32f103xx_gpio_driver.c:490:6:enable_gpio_interrupt	16	static
+../drivers/Src/stm32f103xx_gpio_driver.c:498:6:clear_gpio_interrupt	16	static
