@@ -9,7 +9,7 @@
 #define INC_STM32F103XX_GPIO_DRIVER_H_
 
 #include "stm32f103xx.h"
-#include "core_cm33.h"
+
 
 /*
  * This is a configuration structure for a GPIO pin
